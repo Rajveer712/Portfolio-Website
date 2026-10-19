@@ -5,17 +5,17 @@ const projects = [
     description:
       "A modern developer portfolio featuring a responsive layout, project showcases, smooth navigation, and a contact form.",
     technologies: ["React", "Vite", "Tailwind CSS"],
-    demo: "http://localhost:5173/#home",
+    demo: "portfolio-website-nine-jade-93.vercel.app",
     github: "",
   },
   {
     number: "02",
-    title: "Task Management App",
+    title: "Travel Planner",
     description:
-      "A task management interface concept designed to organize tasks, track progress, and maintain a clear workflow.",
+      "A travel planning application concept for organizing trips, managing itineraries, and discovering new destinations.",
     technologies: ["React", "JavaScript", "CSS"],
-    demo: "",
-    github: "",
+    demo: "https://travel-website-ten-tau.vercel.app/",
+    github: "https://github.com/ten-tau/travel-website",
   },
   {
     number: "03",
