@@ -15,7 +15,7 @@ const projects = [
       "A travel planning application concept for organizing trips, managing itineraries, and discovering new destinations.",
     technologies: ["React", "JavaScript", "CSS"],
     demo: "https://travel-website-ten-tau.vercel.app/",
-    github: "https://github.com/ten-tau/travel-website",
+    github: "",
   },
   {
     number: "03",
