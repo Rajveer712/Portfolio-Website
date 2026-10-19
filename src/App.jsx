@@ -67,7 +67,7 @@ export default function App() {
 
             <a
   className="linkedin-link"
-  href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
+  href="https://www.linkedin.com/in/rajveer-shekhawat-4678a932a/"
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Visit my LinkedIn profile"
